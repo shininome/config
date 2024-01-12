@@ -1,0 +1,18 @@
+socks-port: 7891
+allow-lan: true
+mode: rule
+log-level: silent
+external-controller: 0.0.0.0:9090
+rule-providers: ~
+rules: ~
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: redir-host
+  listen: 0.0.0.0:7874
+  nameserver:
+  - 127.0.0.1:5335
+  - 233.5.5.5
+  fallback:
+  - 127.0.0.1:5335
+  - 8.8.8.8

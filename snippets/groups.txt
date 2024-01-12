@@ -1,0 +1,25 @@
+Proxies`select`.*`
+Netflix`select`[]EMBY`[]DIRECT`[]Proxies`[]HK`[]JP`[]US
+AsianTV`select`[]DIRECT`[]EMBY`[]Proxies`[]HK`[]JP`[]US`[]TW
+GlobalTV`select`[]EMBY`[]DIRECT`[]Proxies`[]HK`[]JP`[]US
+Steam`select`[]DIRECT`[]Proxies`[]HK`[]JP`[]US
+Speedtest`select`[]DIRECT`[]Proxies`[]HK`[]JP`[]US
+Microsoft`select`[]DIRECT`[]Proxies`[]HK`[]JP`[]US
+PayPal`select`[]US`[]Proxies`[]DIRECT`[]HK`[]JP
+Apple`select`[]DIRECT`[]Proxies`[]HK`[]JP`[]US
+EMBY`select`(实验)`[]DIRECT
+US`select`(美国)
+TW`select`(台湾)
+JP`select`(日本)
+SG`select`(新加坡)
+HK`select`(香港)
+实验自选`select`(实验)
+Domestic`select`[]DIRECT`[]Proxies
+AdBlock`select`[]REJECT`[]DIRECT`[]Proxies
+Others`select`[]Proxies`[]DIRECT
+
+;Bahamut`[]Proxies`[]TW
+;♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300
+;⛔️ 广告拦截`select`[]🛑 全球拦截`[]🎯 全球直连`[]🔰 节点选择
+;🚫 运营劫持`select`[]🛑 全球拦截`[]🎯 全球直连`[]🔰 节点选择
+

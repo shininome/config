@@ -1,0 +1,48 @@
+# > 局域网地址
+Domestic,rules/ios_rule_script/rule/Surge/Lan/Lan.list,LAN
+Domestic,rules/ACL4SSR/Clash/Ruleset/SteamCN.list
+JP,rules/ACL4SSR/Clash/Ruleset/TikTok.list
+JP,rules/ACL4SSR/Clash/Ruleset/Dmm.list
+# > 苹果服务
+Apple,rules/ios_rule_script/rule/Surge/Apple/Apple_All_No_Resolve.list
+# > 游戏
+Steam,rules/ACL4SSR/Clash/Ruleset/Steam.list
+# > 微软服务
+Microsoft,rules/ios_rule_script/rule/Surge/Microsoft/Microsoft.list
+# > 社交平台
+Proxies,rules/ACL4SSR/Clash/Telegram.list
+# > 流媒体
+AsianTV,rules/ios_rule_script/rule/Surge/BiliBili/BiliBili.list
+AsianTV,rules/ios_rule_script/rule/Surge/ChinaMedia/ChinaMedia.list
+Netflix,rules/ios_rule_script/rule/Surge/YouTube/YouTube.list
+Netflix,rules/ios_rule_script/rule/Surge/Netflix/Netflix.list
+Netflix,rules/ios_rule_script/rule/Surge/Disney/Disney.list
+Netflix,rules/ios_rule_script/rule/Surge/GlobalMedia/GlobalMedia_All_No_Resolve.list
+
+Domestic,rules/ACL4SSR/Clash/ChinaCompanyIp.list
+Domestic,rules/ACL4SSR/Clash/ChinaDomain.list
+Proxies,rules/ACL4SSR/Clash/ProxyGFWlist.list
+Proxies,rules/lhie1/Surge/Surge 3/Provider/Proxy.list
+# Proxies,rules/DivineEngine/Surge/Ruleset/Global.list
+Domestic,[]GEOIP,CN
+Others,[]FINAL
+
+# Domestic,rules/ACL4SSR/Clash/LocalAreaNetwork.list
+# Apple,rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list
+
+# GlobalTV,rules/ACL4SSR/Clash/ProxyMedia.list
+# Netflix,rules/ACL4SSR/Clash/Netflix.list
+# AsianTV,rules/ACL4SSR/Clash/Ruleset/Bilibili.list
+# AsianTV,rules/ACL4SSR/Clash/ChinaMedia.list
+# AsianTV,rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list
+# AsianTV,rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list
+# AsianTV,rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list
+# AsianTV,rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list
+# Domestic,rules/DivineEngine/Surge/Ruleset/Unbreak.list
+
+# AdBlock,rules/ACL4SSR/Clash/BanAD.list
+# AdBlock,rules/ACL4SSR/Clash/BanEasyList.list
+
+# AdBlock,rules/ACL4SSR/Clash/BanProgramAD.list
+# Domestic,rules/NobyDa/Surge/Download.list
+# Microsoft,rules/ACL4SSR/Clash/Microsoft.list
