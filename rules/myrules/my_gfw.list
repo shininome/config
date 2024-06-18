@@ -4,19 +4,8 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
 
 DOMAIN-SUFFIX,login.microsoftonline.com
-DOMAIN-SUFFIX,xiaomi.eu
-
-
-DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,z21.wndown.lol
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,photos.live.com
-DOMAIN-SUFFIX,docs.live.net
-DOMAIN-SUFFIX,api.onedrive.com
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,self.events.data.microsoft.com
-DOMAIN-SUFFIX,login.live.com
-DOMAIN-SUFFIX,officeapps.live.com
 
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,arg.rip
@@ -25,7 +14,7 @@ DOMAIN-SUFFIX,wnacg.org
 DOMAIN-SUFFIX,p.sda1.dev
 DOMAIN-KEYWORD,python
 DOMAIN-SUFFIX,summer-plus.net
-DOMAIN-KEYWORD,flowercloud
+
 DOMAIN-SUFFIX,mikanani.me
 DOMAIN-SUFFIX,news.xbox.com
 DOMAIN-SUFFIX,assrt.net
