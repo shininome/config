@@ -1,8 +1,8 @@
-DOMAIN,gateway.icloud.com,US
-DOMAIN,gspe1-ssl.ls.apple.com,US
-DOMAIN-SUFFIX,apple.news,US
-DOMAIN,apple.comscoreresearch.com,US
-DOMAIN,news-client.apple.com,US
-DOMAIN,news-events.apple.com,US
-DOMAIN,news-edge.apple.com,US
-DOMAIN,news-assets.apple.com,US
+DOMAIN,gateway.icloud.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN,apple.comscoreresearch.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-assets.apple.com
